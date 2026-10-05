@@ -1,0 +1,13 @@
+{
+  "name": "알바기록 - 근무·급여 관리",
+  "short_name": "알바기록",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7fa",
+  "theme_color": "#f7c5d6",
+  "description": "출퇴근, 근무시간, 예상 급여와 실제 급여를 한 번에 관리하는 개인용 PWA",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
